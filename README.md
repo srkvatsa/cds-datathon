@@ -1,6 +1,7 @@
 # Election Predictor
 
-
+# Team Name
+LSTM
 
 ## Features:
 - Polling Data 
